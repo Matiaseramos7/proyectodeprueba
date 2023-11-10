@@ -1,0 +1,388 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "Zapatillas Nike Air Force 1 07 Lv8 Hombre",
+            "categoria": "zapatillas de hombres",
+            "precio": 124.999,
+            "descripcion": "Lucí con estilo sin olvidarte de la comodidad con las Zapatillas Nike Air Force 1 07 Lv8 Hombre. Cuentan con una parte superior de cuero duradera que ofrece máximo confort y agrega un toque sofisticado y brillante a cualquiera de tus looks. La suela de goma posee un agarre superior sobre variadas superficies para que te desplaces con confianza. Tus pisadas se volverán suaves y livianas gracias a la tecnología Nike Air que amortigua cada paso que das. Combinalas con cualquier atuendo y lucí un look urbano de primer nivel.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dwd0d2a1cb/products/NIFB2048-001/NIFB2048-001-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 2,
+            "nombre": "Zapatillas adidas Superstar",
+            "categoria": "zapatillas de hombres",
+            "precio": 52.999,
+            "descripcion": "OrthoLite: Disfrutá de la comodidad y el desempeño de la plantilla Ortholite.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dwb20c2a83/products/AD_FU7714/AD_FU7714-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 3,
+            "nombre": "Zapatillas Puma Rs-X Triple",
+            "categoria": "zapatillas de hombres",
+            "precio": 56.999,
+            "descripcion": "Sumá un look canchero a tu outfit con las Zapatillas Puma Rs-X Triple. Cuentan con una capellada de cuero sintético y una suela de caucho que aportan seguridad y comodidad vayas donde vayas. No pierdas tu rumbo y mantenete siempre activo.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dwecbb051a/products/PU392340-02/PU392340-02-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 4,
+            "nombre": "Zapatillas Jordan Air 1 Mid Hombre",
+            "categoria": "zapatillas de hombres",
+            "precio": 124.999,
+            "descripcion": "Las Zapatillas Jordan Air 1 Mid Hombre son todo lo que necesitás para vestir un look urbano único en cualquier ocasión. Su parte superior de cuero ofrece mayor durabilidad y sujeción durante todo el día, mientras que la entresuela de espuma Air Max amortigua tus pisadas para que disfrutes de la verdadera sensación de confort. Podrás desplazarte libremente y con confianza gracias a la suela de goma con tracción duradera. Combinalas con los atuendos que quieras y lucí un look auténtico vayas donde vayas.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dwfe219711/products/NIDQ8426-301/NIDQ8426-301-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 5,
+            "nombre": "Zapatillas adidas Nmdr1 Primeblue Hombre",
+            "categoria": "zapatillas de hombres",
+            "precio": 42.439,
+            "descripcion": "Las Zapatillas adidas Nmdr1 Primeblue Hombre estarán siempre listas para un nuevo reto. Su capellada de malla transpirable mantiene el sudor alejado de tus pies y la suela de goma proporciona una tracción óptima para que te desplaces sobre múltiples superficies con total comodidad. Además, la tecnología Boost garantiza una amortiguación excepcional y vuelve tus pisadas mucho más livianas y ágiles. Su diseño altamente innovador te permite vestir un look deportivo premium en todo momento.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dw7caca0e3/products/ADGZ9261/ADGZ9261-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 6,
+            "nombre": "Zapatillas Running Nike Air Max Se 97 Hombre",
+            "categoria": "zapatillas de hombres",
+            "precio": 164.999,
+            "descripcion": "Marcá tendencia con las Zapatillas Running Nike Air Max Se 97 Hombre y demostrá toda tu originalidad vayas donde vayas. Su capellada de malla y cuero sintético combina transpirabilidad y durabilidad en cada uso, mientras que la suela de goma brinda una tracción superior sobre distintas superficies. La plantilla Air Max amortigua tus pisadas absorbiendo cada impacto para que te desplaces cómodamente y sin preocupaciones. Llevá tu estilo a otro nivel y convertite en el centro de atención vayas donde vayas.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dw6ef8305c/products/NIDV7421-002/NIDV7421-002-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 7,
+            "nombre": "Zapatillas adidas Nmdr1 Mujer",
+            "categoria": "zapatillas de mujer",
+            "precio": 44.319,
+            "descripcion": "Las Zapatillas adidas Nmdr1 Mujer se convertirán en tus compañeras perfectas al momento de salir de tu casa. Su capellada de malla transpirable favorece la respirabilidad, mientras que la suela de goma aporta máxima tracción en cada paso para que te muevas con total libertad. Su amortiguación BOOST te impulsa hacia adelante y su increíble diseño te hace lucir un look deportivo o casual de primer nivel.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dw2a41153e/products/ADHQ4280/ADHQ4280-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 8,
+            "nombre": "Zapatillas Jordan 1 Low Mujer",
+            "categoria": "zapatillas de mujer",
+            "precio": 109.999,
+            "descripcion": "Diseñadas para vos que te arriesgas a todo y que no pasas desapercibida, llegan las Zapatillas Jordan 1 Low Mujer. Confeccionadas con capas de cuero sintético, te ofrece un look urbano y moderno lleno de texturas y ritmo. Su entresuela de espuma y suela ranurada te ofrece ligereza y amortiguación en cualquier superficie para que vayas segura dando pasos estables y con un estilo único característico de la marca.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dw9bda4317/products/NIDC0774-416/NIDC0774-416-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 9,
+            "nombre": "Zapatillas Converse Chuck Taylor All Star Lift Ox",
+            "categoria": "zapatillas de mujer",
+            "precio": 62.899,
+            "descripcion": "Las Zapatillas Converse Chuck Taylor All Star Lift son un clásico que no puede faltar en tu ropero. Su diseño moderno es ideal para lucir hasta en las salidas menos planeadas gracias a su capellada de lona resistente y una plataforma digna de Converse.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dwfa893671/products/CO_166585C/CO_166585C-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 10,
+            "nombre": "Zapatillas Urbanas Puma Slipstream Always On Mujer",
+            "categoria": "zapatillas de mujer",
+            "precio": 98.999,
+            "descripcion": "Las Zapatillas Puma Slipstream Always On Unisex volvieron con un diseño completamente renovado para hacerte destacar en cualquier ocasión. Ya sea que quieras ir a la universidad o juntarte con amigos, este calzado es la solución a todas tus necesidades. Su capellada de cuero brinda máxima durabilidad y añade un toque sofisticado y audaz a tu look, mientras que la suela de goma proporciona una tracción óptima para desplazarte por cualquier superficie. Combinalas con tu look favorito y convertite en el centro de atención vayas donde vayas.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dw0da3df63/products/PU392341-02/PU392341-02-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 11,
+            "nombre": "Zapatillas Nike Dunk High Mujer",
+            "categoria": "zapatillas de mujer",
+            "precio": 119.999,
+            "descripcion": "Preparate para un viaje en el tiempo con las Zapatillas Nike Dunk High Mujer. Estas zapatillas son un homenaje al estilo del básquet de los años 80 con un toque moderno. La parte superior de cuero blanco y celeste con una suela a juego es una oda a la elegancia atemporal. Con revestimientos duraderos, una entresuela de espuma que brinda comodidad a cada paso, un cuello acolchado high para un ajuste perfecto y bloques de color retro que te transportan a una era vintage, estas zapatillas son un sueño hecho realidad para los amantes de la moda y el deporte. Además, la suela de goma con punto de giro básquet te dará la tracción que necesitas para enfrentar cualquier desafío con estilo. ¡Reviví la nostalgia con un toque contemporáneo y destaca en cada rincón de la ciudad!",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dw89054fb9/products/NIDD1869-107/NIDD1869-107-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 12,
+            "nombre": "Zapatillas Jordan 1 Zoom Cmft 2 Mujer",
+            "categoria": "zapatillas de mujer",
+            "precio": 146.999,
+            "descripcion": "Experimentá el lujo en tus pies gracias a las Zapatillas Jordan 1 Zoom Cmft 2 Mujer, un calzado que no te obliga a decidir entre estilo y comodidad, sino que te proporciona ambos en abundancia. Gracias a la espuma Jordan Fórmula 23, tus pasos serán suaves y extremadamente cómodos, mientras que la tecnología Nike Air ofrece una amortiguación incomparable, creando un calzado que no querrás quitarte. El elegante diseño de gamuza en la parte superior es un símbolo de tu refinamiento y se combina con la suela de goma para mantenerte a la moda. Destacate en cada paso que des con este par!",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dw9e32517d/products/NIDV1305-004/NIDV1305-004-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 13,
+            "nombre": "Remera Urbana adidas Essentials Hombre",
+            "categoria": "remeras de hombre",
+            "precio": 20.999,
+            "descripcion": "La Remera Urbana adidas Essentials Hombre es tu básico infaltable para todos los días. Hecha con algodón que te brinda confort en casa uso, y con un diseño clásico y versátil para combinarlo con tus looks de todos los días. Usala para ir a entrenar o para una salida casual, y sentite cómodo y canchero con esta prenda sin importar a donde vayas.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dw09c1c4d0/products/ADIM4540/ADIM4540-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 14,
+            "nombre": "Remera Jordan Flight Mvp Hombre",
+            "categoria": "remeras de hombre",
+            "precio": 23.499,
+            "descripcion": "Con la Remera Jordan Flight Mvp Hombre, tu estilo se irá a lo más alto. Esta prenda es infaltable en tu ropero por su comodidad, versatilidad y modernidad. Hecha con un algodón suave y un diseño que va muy bien con vos. El logo del Jumpman en el frente, es el sello de tu personalidad que no se conforma con poco. Tu outfit necesita tener esta remera.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dwa77784f0/products/NIDQ7366-010/NIDQ7366-010-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 15,
+            "nombre": "Remera Urbana adidas Trifolio Essentials Hombre",
+            "categoria": "remeras de hombre",
+            "precio": 24.699,
+            "descripcion": "La Remera Urbana adidas Trifolio Essentials Hombre se convertirá en tu básica favorita para tu rutina diaria. Confeccionada completamente en algodón, brinda calidez y confort desde el comienzo hasta el final del día. Podrás aprovechar al máximo su gran versatilidad ya que su diseño clásico y liso te permite emplearla tanto para salir a correr como para ir a comer con tus amigos. Combinala con cualquier atuendo y destacate vayas donde vayas con un look casual y canchero.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dw28bd469e/products/ADIA4874/ADIA4874-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 16,
+            "nombre": "Remera Urbana Champion Deportiva Hombre",
+            "categoria": "remeras de hombre",
+            "precio": 22.399,
+            "descripcion": "La Remera Urbana Champion Deportiva Hombre no te puede faltar en ninguno de tus looks. Fabricada en algodón suave, brinda comodidad y suavidad durante todo el día y su diseño versátil ofrece la oportunidad de emplearlo ya sea para salir a correr o juntarte con tus amigos. Podrás sentirte fresco durante toda tu actividad gracias a su tejido transpirable que aleja el sudor de tu piel para que las altas temperaturas no te impidan hacer lo que más te gusta. Sumá estilo y calidad a tus outfits y te serás el centro de atención vayas donde vayas.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dw01f22eeb/products/CHCHHGT23H5867FA003/CHCHHGT23H5867FA003-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 17,
+            "nombre": "Remera Jordan Jumpman Ss Crew Hombre",
+            "categoria": "remeras de hombre",
+            "precio": 23.499,
+            "descripcion": "La Remera Jordan Jumpman Ss Crew Hombre es tu aliada perfecta para cualquier tipo de actividad. Su tela de algodón y poliéster combina durabilidad con confort para brindarte la mejor experiencia a la hora de entrenar o juntarte con amigos. Además, su diseño versátil te permite emplearla en cualquier ocasión y combinarla con distintos atuendos para que vistas un look urbano o deportivo de primer nivel.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dwcdfa96a1/products/NICJ0921-432/NICJ0921-432-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 18,
+            "nombre": "Remera Urbana Champion Deportiva Hombre",
+            "categoria": "remeras de hombre",
+            "precio": 22.399,
+            "descripcion": "La Remera Urbana Champion Deportiva Hombre es tu aliada perfecta para tu rutina diaria. Fabricada en algodón, aporta comodidad y suavidad en cada uso. Además, su tejido duradero brinda libertad de movimiento para que disfrutes de la verdadera sensación de confort, mientras que sus materiales transpirables mantienen el sudor alejado de tu cuerpo. Además, su diseño moderno ofrece un look urbano y juvenil de primer nivel para que te destaques en cualquier ocasión. Que las altas temperaturas no te detengan, salí a dar tu máximo con esta remera cómoda y funcional.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dw73e0a645/products/CHCHHGT23H5860FA018/CHCHHGT23H5860FA018-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 19,
+            "nombre": "Remera Urbo Essence Mujer",
+            "categoria": "remeras de mujer",
+            "precio": 9.169,
+            "descripcion": "¿Buscabas una prenda versátil y cómoda para todos los días? Entonces la Remera Urbo Essence Mujer es la opción perfecta para vos. Su tela suave y elástica ofrece máximo confort y elasticidad para que te muevas sin restricciones. Además, su diseño liso y clásico te permite combinarla con los atuendos que quieras para vestir un look casual y canchero en el shopping, la universidad o en la tranquilidad de tu casa. Esta remera no te puede faltar en tu rutina diaria.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dw7f37f12b/products/URNISS232156/URNISS232156-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 20,
+            "nombre": "Remera Urbo Essence Mujer",
+            "categoria": "remeras de mujer",
+            "precio": 31.00,
+            "descripcion": "Sumá practicidad y comodidad a tu día a día con la Remera Urbo Essence Mujer. Fabricada con materiales de alta calidad, te ofrece el confort que te merecés para arrancar tu jornada con máxima energía. Además, su calce regular te permite moverte libremente y sin restricciones. Su diseño liso y moderno la convierte en una prenda combinable con cualquier atuendo para que te destaques en el shopping, la universidad o en el gym.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dw20fb8e94/products/URNISS232155/URNISS232155-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 21,
+            "nombre": "Remera Urbana adidas Adicolor Classics Trifolio Mujer",
+            "categoria": "remeras de mujer",
+            "precio": 33.999,
+            "descripcion": "La comodidad que buscabas está en la Remera Urbana adidas Adicolor Classics Trifolio Mujer. Confeccionada con algodón supersuave que te brinda confort en cada uso, además su tejido transpirable te mantiene seca durante todas tus rutinas. Combínala como quieras, con tus outfits deportivos o casuales pero siempre sentite cómoda en casa uso.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dwe706ebc7/products/ADIB7424/ADIB7424-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 22,
+            "nombre": "Remera Urbo Essence Mujer",
+            "categoria": "remeras de mujer",
+            "precio": 9.169,
+            "descripcion": "La Remera Urbo Essence Mujer te permite estar a la moda y mantenerte cómoda las 24 horas del día. Su calce regular te ofrece libertad de movimiento, mientras que su tela transpirable mantiene tu piel fresca incluso durante las altas temperaturas. Su diseño clásico y moderno te ofrece la oportunidad de combinarla con los atuendos que más te gusten para lucir un look urbano superior en cualquier lugar.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dw8ba0cf1e/products/URNISS232149/URNISS232149-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 23,
+            "nombre": "Remera Entrenamiento Puma Squad Fl Mujer",
+            "categoria": "remeras de mujer",
+            "precio": 24.999,
+            "descripcion": "La Remera Entrenamiento Puma Squad Fl Mujer es la opción perfecta para tu rutina. Fabricada en algodón suave, aporta comodidad y durabilidad durante todo el día, mientras que su tejido transpirable mantiene tu piel fresca y seca durante los ejercicios más exigentes. Su cuello redondo y calce regular brindan mayor confort y libertad de movimiento para que nada te impida dar tu máximo en cada actividad. Sumá confort y calidad a tus días.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dw9b074751/products/PU678272-01/PU678272-01-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 24,
+            "nombre": "Remera Urbana adidas Adicolor Classics Slim Mujer",
+            "categoria": "remeras de mujer",
+            "precio": 33.999,
+            "descripcion": "Marcá tendencia vayas donde vayas con la Remera Urbana adidas Adicolor Classics Slim Mujer. Fabricada en poliéster, aporta máxima durabilidad y comodidad durante cualquier actividad. Ya sea que quieras ir a la universidad, a trabajar o si tenés una salida con tus amigos, esta prenda es ideal para llevarla a cualquier plan y combinarla con los atuendos que quieras. Su diseño clásico e innovador eleva tu look urbano a niveles superiores.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dwfcdd4c9e/products/ADIB7439/ADIB7439-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 25,
+            "nombre": "Short Nike Kevin Durant Hombre",
+            "categoria": "short de hombre",
+            "precio": 48.499,
+            "descripcion": "La comodidad es parte de tu estilo audaz con el Short Nike Kevin Durant Hombre. Una prenda que lleva la cultura del básket a las calles de tu ciudad y te destaca donde sea que estés. Su confección en algodón premium, mantiene el confort de tu casa desde la primera hasta la última hora del día, a la vez que la tela estilo rompeviento de sus bolsillos y cintura, resalta dándote un look que no pasa desapercibido. Ponételo y demostrá elegancia y moda en medio de la simpleza.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dw5f277b0b/products/NIDX0203-063/NIDX0203-063-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 26,
+            "nombre": "Short Básquet Jordan Flight Mvp Hombre",
+            "categoria": "short de hombre",
+            "precio": 48.499,
+            "descripcion": "Llevá tu juego al siguiente nivel con el Short Básquet Jordan Flight MVP Hombre. Estos shorts están confeccionados en malla de poliéster de primera calidad, lo que garantiza una ligereza y transpirabilidad excepcionales en la cancha. El cordón de ajuste con puntas metálicas te permite personalizar el ajuste perfecto, mientras que su ajuste relajado te brinda la libertad de movimiento que necesitás para volar en la cancha. Los toques de neón y el logotipo extragrande no sólo te destacarán en el juego, sino que también te mantendrán a la vanguardia de la moda deportiva. Dominá cada jugada con estilo y rendimiento incomparables gracias a este short.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dw8f752e05/products/NIDQ8024-252/NIDQ8024-252-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 27,
+            "nombre": "Short Champion Deportivo Hombre",
+            "categoria": "short de hombre",
+            "precio": 35.199,
+            "descripcion": "¿Buscás el equilibrio perfecto entre comodidad y estilo? El Short Champion Deportivo Hombre es la respuesta. Confeccionado en poliéster de alta calidad, te brinda la libertad de movimiento que necesitás en cada entrenamiento. Sus prácticos bolsillos te permiten llevar tus elementos esenciales con vos, mientras que el logo bordado de Champion es el sello de autenticidad que distingue a los verdaderos campeones. Dominá tus desafíos con un estilo impecable y rendimiento incomparable. Este short más que una prenda, es tu declaración de grandeza.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dw31176606/products/CHHH879185549314006/CHHH879185549314006-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 28,
+            "nombre": "Short Vans Core Basic Fleece",
+            "categoria": "short de hombre",
+            "precio": 27.000,
+            "descripcion": "Lo que más necesitás en tu placard, es una prenda que te permita trasladar la comodidad de casa a tus planes cotidianos y hacerlo con mucho estilo. Hechos con un algodón suave y cómodo que no podrás parar de usar y con una cintura elástica regulable que te da un ajuste confortable y a la vez seguro para todos tus movimientos. Los bolsillos laterales y trasero, son una opción para tus guardar tus llaves o celular. Ya tenemos un lugar para este short y es la silla del cuarto!",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dwae068fd6/products/VA_VN0A7YDTBLKSMUA/VA_VN0A7YDTBLKSMUA-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 29,
+            "nombre": "Short Entrenamiento Nike Dri-FIT Strike Hombre",
+            "categoria": "short de hombre",
+            "precio": 32.799,
+            "descripcion": "Dominá tu entrenamiento con el Short de Entrenamiento Nike Dri-FIT Strike Hombre. Su ajuste holgado y la tela liviana te brindan total libertad de movimiento. Equipado con la tecnología Dri-FIT, este short capilariza el sudor para mantenerte fresco y seco en cada movimiento. Además, su cintura elástica garantiza un ajuste cómodo. ¡Lográ tus objetivos con comodidad y estilo incomparables!",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dw631b9534/products/NIDV9276-013/NIDV9276-013-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 30,
+            "nombre": "Short Urbano Fila Street Nbh Hombre",
+            "categoria": "short de hombre",
+            "precio": 18.299,
+            "descripcion": "El Short Urbano Fila Street Nbh Hombre combina el estilo retro del básquet con el moderno. Están confeccionados en tejido de algodón y poliéster que garantiza suavidad y elasticidad de forma natural. La cintura elástica y los dos bolsillos laterales te ofrecen comodidad y seguridad para llevar tus pertenencias a donde vayas. Usa este short con tu remera y zapatillas deportivas favoritas y enfrenta tus rutinas diarias con estilo y en total confort.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dw1629cac4/products/FIF11HT00707-7720/FIF11HT00707-7720-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 31,
+            "nombre": "Short Urbo Trippy Mujer ",
+            "categoria": "short de mujer ",
+            "precio": 4.429,
+            "descripcion": "Embarcate en un viaje de estilo y comodidad que te llevará al corazón mismo del verano. Con nuestro Short Urbo Trippy Mujer, una prenda confeccionada en poliéster de primera calidad, te sumergirás en un océano de frescura y moda. Su cintura elástica y cordón ajustable te proporcionan un ajuste personalizado, perfecto tanto para tus sesiones de entrenamiento como para tus días de sol en la playa. Deja que el diseño único de este short pinte tus momentos de diversión este verano. No dejes que la estación más cálida pase sin disfrutar y dale el toque mágico que tu guardarropa necesita. ",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dwc5cc2948/products/URNISS232068/URNISS232068-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 32,
+            "nombre": "Short Topper Rx3 Baumm",
+            "categoria": "short de mujer",
+            "precio": 16.639,
+            "descripcion": "El Short Topper Rx3 Baumm es perfecto para los días en los que la comodidad es tu objetivo principal. La parte superior holgada y los bolsillos laterales marcan el diseño de este short. El detalle de la cinta tejida aplicada en el lateral exclusiva de la línea. El elástico y el cordón de ajuste te darán el calce perfecto.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dwe5b0e9e4/products/TO_165511/TO_165511-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 33,
+            "nombre": "Short Jordan Sport Mujer",
+            "categoria": "short de mujer",
+            "precio": 48.499,
+            "descripcion": "¡Preparate para la aventura con el Short Jordan Sport Mujer! Está diseñado, para aquellas que buscan libertad de movimiento, con una división alta en las piernas. Estos pantalones cortos te permiten conquistar cualquier terreno con estilo. ¿La comodidad? No es un lujo, es una promesa. La cintura gruesa y el material liviano, que absorbe el sudor, te envuelven en esa comodidad. Mientras que la cintura elástica con cordón te ofrece un ajuste a medida, asegurándote de que adapten perfectamente a tus actividades de hoy.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dw6225e2d8/products/NIDQ4455-010/NIDQ4455-010-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 34,
+            "nombre": "Short Jordan Flight Mujer",
+            "categoria": "short de mujer",
+            "precio": 51.599,
+            "descripcion": "El Short Jordan Flight Mujer es la elección perfecta para las amantes del basquet y la moda inspirada en Michael Jordan. Diseñado con la inspiración del legendario jugador de baloncesto, este short ofrece un ajuste cómodo y un look deportivo que te hará destacar en todo momento. Ya sea para un día intenso de entrenamiento o para lucir con estilo en tu día a día, este short es versátil y con estilo. Los detalles de calidad y el icónico logotipo de Jordan añaden un toque de elegancia deportiva a tu look.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dw0f09913e/products/NIDQ4611-493/NIDQ4611-493-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 35,
+            "nombre": "Short Urbano adidas All Szn French Terry Mujer",
+            "categoria": "short de mujer",
+            "precio": 29.399,
+            "descripcion": "Adelantate a la moda con el Short Urbano adidas All Szn French Terry Mujer. Lucir bien en todo momento será más fácil gracias a esta prenda confeccionada en un rizo francés de mezcla de algodón que te aporta máxima calidez en cada uso. Su cintura de tiro alto con elástico y cordón ofrece un calce perfecto para que te muevas con total seguridad, mientras que su diseño suelto te brinda mayor frescura y confort que hará que se convierta en tu short favorito. Definitivamente tus días de descanso se volverán aún más relajantes.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dw780fdbd6/products/ADIC6484/ADIC6484-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 36,
+            "nombre": "Short Urbo Tom & Jerry Mujer",
+            "categoria": "short de mujer",
+            "precio": 13.779,
+            "descripcion": "Animate a revivir la diversión de la infancia con nuestro Short Urbo Tom & Jerry Mujer. Confeccionado en una tela suave que acaricia tu piel, este short te brinda la comodidad que necesitás para arrasar en tus jornadas de gimnasio o relajarte en tu hogar. Su cintura elástica se adapta a ti, sin importar dónde estés o qué aventuras te esperen. Descubrí un toque de nostalgia y estilo en cada paso que des con este atuendo que celebra a la icónica dupla de dibujos animados, Tom & Jerry. ¿Lista para la diversión? ¡Este short lo tiene todo!",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dw952be4c6/products/URNISS232184/URNISS232184-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 37,
+            "nombre": "Pantalón Urbano Nike Swoosh Woven Hombre",
+            "categoria": "pantalon de hombre",
+            "precio": 72.999,
+            "descripcion": "El Pantalón Urbano Nike Swoosh Woven Hombre es ideal para cualquier ocasión, ya sea que quieras dar una vuelta por el parque o por el shopping. Fabricado con materiales de alta calidad, brinda máxima comodidad y elasticidad a lo largo del día. Podrás desplazarte con total seguridad con su cintura con elástico que ofrece un calce perfecto y gracias a su diseño holgado y relajado no vas a querer sacártelo nunca. Además, esta prenda cuenta con un increíble estampado del icónico logo de la marca que eleva tu look deportivo o urbano a niveles superiores. Combinalo con la remera que más te guste y salí a dar lo mejor de vos en cada salida.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dw368eb79b/products/NIDX0594-010/NIDX0594-010-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 38,
+            "nombre": "Pantalón Urbano Puma Bmw Mms Statement Hombre",
+            "categoria": "pantalon de hombre",
+            "precio": 47.139,
+            "descripcion": "Sentite cómodo y a la moda con el Pantalón Urbano Puma Bmw Mms Statement Hombre. Ya sea que quieras dar una vuelta por el shopping, juntarte con amigos o salir a correr, esta prenda se adapta a cualquier ocasión. Gracias a su ajuste holgado y la cintura con elástico, podrás desplazarte con total libertad y seguridad por donde quieras y lucir un estilo urbano y canchero vayas donde vayas. Definitivamente este pantalón no puede faltar en tu armario.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dwcc8e70ac/products/PU538113-01/PU538113-01-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 39,
+            "nombre": "Pantalón Nike Sportswear Sport Essentials",
+            "categoria": "pantalon de hombre",
+            "precio": 47.489,
+            "descripcion": "El Pantalón Nike Sportswear es una perfecta compañia en épocas de bajas temperaturas. Su tejido Fleece está cepillado para ofrecer mayor suavidad durante el tiempo que lo lleves puesto y se comibina con un diseño inspirado en el atletismo. Sus logotipos bordados y estampados en toda la prenda, le dan un look ideal. Además, sus bolsillos frontales y el trasero, te permiten guardar todo lo más necesario para que no tengas que llevar una carga o equipaje y los puños evitan la entrada de frío a tu cuerpo, manteniéndote cálido en todo momento. Tu ropero lo está necesitando.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dw512c7f64/products/NI_DM6871-010/NI_DM6871-010-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 40,
+            "nombre": "Pantalón Urbano Nike Swoosh Hombre",
+            "categoria": "pantalon de hombre",
+            "precio": 91.499,
+            "descripcion": "Con el Pantalón Urbano Nike Swoosh Hombre llamarás la atención de todos a tu alrededor gracias a su diseño de primer nivel. Confeccionado en algodón, aporta máxima calidez y suavidad en cada uso. Además, la cintura con elástico y cordón te permite personalizar el ajuste para que te desplaces en cualquier dirección con total seguridad. Los bolsillos laterales y el posterior con cierre te brindan lugares de fácil acceso para guardar tus objetos más importantes. Combinalo con tu remera favorita y vestí un look urbano premium.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dw52446166/products/NIDX0564-034/NIDX0564-034-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 41,
+            "nombre": "Pantalon Jordan Flight Hombre",
+            "categoria": "pantalon de hombre",
+            "precio": 66.499,
+            "descripcion": "¿Queres relajarte o mantener la acción? El Pantalón Jordan Flight Hombre te brindan la libertad de elegir. Con su suavidad excepcional y estilo lavado a propósito, es la elección perfecta. Además, la cintura elástica te proporciona un ajuste cómodo y personalizado, mientras que los puños elásticos en los tobillos garantizan un ajuste óptimo. Y para mayor practicidad, el bolsillo te permite guardar con seguridad tus elementos esenciales cuando vas a salir.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dw17a6c181/products/NIDR3089-010/NIDR3089-010-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 42,
+            "nombre": "Pantalon Puma Classics Woven Hombre",
+            "categoria": "pantalon de hombre",
+            "precio": 26.499,
+            "descripcion": "Relax. Con esta palabra podemos definir el Pantalon Puma Classics Woven Hombre. Porque te permite estar cómodo y distendido mientras estás en home office o tenés que hacer cosas por tu ciudad. No renuncies a la comodidad, pero tampoco pierdas tu propio estilo. Hecho 100% en algodón para hacerte sentir como si estuvieras relajado en tu cama y con una cintura elástica que se amolda a vos. Los bolsillos laterales son una opción para los momentos en que tenés que salir de corrida con lo justo pero sin tener que cargar tu mochila. Mantene tu marca personal intacta con este pantalón.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dwffb25adb/products/PU535605-01/PU535605-01-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 43,
+            "nombre": "Pantalón Urbo Shiny Mujer",
+            "categoria": "pantalon de mujer",
+            "precio": 12.669,
+            "descripcion": "Lucí un look auténtico y original con el Pantalón Urbo Shiny Mujer. Fabricado con materiales de alta calidad, es el complemento perfecto para todos tus outfits. Su diseño moderno y llamativo añade un toque femenino y juvenil a tu estilo para que seas el centro de atención en el shopping, la universidad o a donde vayas. Además, la cintura con elástico y cordón se adapta fácilmente a tu cuerpo y te permite personalizar el ajuste para que te muevas con confianza en todas las direcciones. Animate a resaltar.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dwcc5fa44b/products/URNIFW232025/URNIFW232025-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 44,
+            "nombre": "Pantalón Urbo Shiny Mujer",
+            "categoria": "pantalon de mujer",
+            "precio": 8.309,
+            "descripcion": "Con el Pantalón Urbo Shiny Mujer podrás disfrutar de todo el confort. Fabricado con materiales de alta calidad, combina comodidad con durabilidad durante cualquier actividad. Podrás moverte sin restricciones y con seguridad gracias a la cintura con elástico y cordón que permite personalizar el ajuste y se adapta fácilmente a tu figura. Combinalo con tus atuendos favoritos y lucí un look femenino y fresco en cualquier ocasión.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dw68af1c77/products/URNIFW232029/URNIFW232029-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 45,
+            "nombre": "Pantalon Topper Basicos Unisex",
+            "categoria": "pantalon de mujer",
+            "precio": 38.229,
+            "descripcion": "Si tu casa se volvió la oficina y en las juntadas con amigos prima la comodidad, el Pantalon Topper Basicos Unisex es perfecto para vos. Una prenda que mantiene la comodidad de principio a fin gracias a su algodón suave, cálido y duradero. A él se agrega una cintura elástica que se mueve con vos a la vez que los puños son ideales para evitar la entrada de frío a tu cuerpo. Este pantalón es ese básico que no puede faltar en tu placard.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dw08595b40/products/TO166005/TO166005-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 46,
+            "nombre": "Pantalón Fila Time To Evolve Unisex",
+            "categoria": "pantalon de mujer",
+            "precio": 23.799,
+            "descripcion": "Preparate para evolucionar tu estilo y comodidad con el Pantalón Fila Time To Evolve Unisex. Este innovador pantalón, confeccionado en una mezcla de poliéster y algodón sustentable, te ofrece la combinación perfecta de comodidad y conciencia ecológica. Su ajuste con elástico y cordón te brinda la libertad de movimiento que necesitas para ejercitarte con total tranquilidad, mientras que su material ligero garantiza una sensación fresca durante todo el día. Con bolsillos laterales prácticos y un ajuste holgado a la moda, este pantalón es una declaración de estilo y funcionalidad. Además, las costuras reforzadas y la abertura de 4 cm en el dobladillo lateral aseguran durabilidad y versatilidad. ",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dwe897884b/products/FIF13L00721-1587/FIF13L00721-1587-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 47,
+            "nombre": "Pantalón Urbano Nike Sportswear Team Mujer",
+            "categoria": "pantalon de mujer",
+            "precio": 51.289,
+            "descripcion": "El Pantalón Urbano Nike Sportswear Team Mujer es la opción ideal para usar en cualquier estación del año. Confeccionado mayormente en poliéster, brinda máxima comodidad y suavidad para que afrontes tu día de la mejor manera. Además, la cintura con elástico y cordón te brinda seguridad para que puedas desplazarte en todas las direcciones con confianza. Su diseño minimalista y altamente moderno te hace lucir un look premium vayas donde vayas. Combinalo con la remera que más te gusta y marcá tendencia.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dw0c601797/products/NIDQ6603-010/NIDQ6603-010-1.JPG?sw=400&sh=400"
+        },
+        {
+            "id": 48,
+            "nombre": "Pantalón adidas Adicolor Sst Mujer",
+            "categoria": "pantalon de mujer",
+            "precio": 66.999,
+            "descripcion": "Con el Pantalón adidas Adicolor Sst Mujer sentite cómoda y con estilo en cada una de tus rutinas. Hecho con materiales de alta calidad que te ofrecen durabilidad y resistencia para que lo uses sin preocupaciones. Además, su diseño moderno y urbano lo hace adaptable a diferentes ocasiones, brindando un aspecto elegante y casual. Ya sea para pasear por la ciudad o para relajarte en casa, este pantalón es ideal.",
+            "imagen": "https://www.moov.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-365-dabra-catalog/default/dw92e76f9a/products/ADIB5916/ADIB5916-1.JPG?sw=400&sh=400"
+        }
+    ]
+}

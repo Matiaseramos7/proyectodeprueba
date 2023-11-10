@@ -1,0 +1,1 @@
+const saludo = console.log('hola desde los datos jsss');

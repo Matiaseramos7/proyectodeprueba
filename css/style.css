@@ -1,0 +1,363 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+.headerLogin {
+    width: 100%;
+    background: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+#inputBusqueda{
+    width: 25rem;
+    padding: .8rem;
+    border: none;
+    border-radius: .2rem;
+}
+
+.headerLogin>div>img {
+    width: 100px;
+    padding: .5rem;
+}
+.iconosDiv{
+    color: white;
+    display: flex;
+    align-items: center;
+
+}
+.iconosDiv > span {
+    cursor: pointer;
+    width: 40px;
+}
+
+.h1-main-registro{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    margin-top: 3rem;
+}
+.navForm > .iniciarSesionNavForm, .registrarmeNavForm > p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 1.2rem;
+    margin: 2rem 2rem .4rem 2rem;
+    cursor: pointer;
+}
+.mainLogin{
+    display: flex;
+    justify-content: center;
+}
+
+.form{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    width: 90%;
+    height: 90vh;
+    flex-direction: column;
+    border: 1px solid rgba(0, 0, 0, 0.185);
+    margin: 3rem;
+}
+.navForm{
+    display: flex;
+    gap: 2rem;
+    border: 1.2px solid rgba(0, 0, 0, 0.329);
+    border-top: none;
+    border-left: none;
+    border-right: none;    
+}
+.inputsForm{
+    width: 35%;
+}
+.divInputsCorreo, .divInputsContraseña{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 2rem;
+}
+
+#inputCorreo, #inputContraseña{
+    padding: .6rem 0rem;
+    
+    width: 100%;
+    margin-top: .5rem;
+    border-radius: .2rem;
+    border: 1px solid;
+}
+
+label{
+    font-family: 'Roboto', sans-serif;
+}
+.iniciarSesionBoton, .crearCuentaDiv{
+    width: 100%;
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#botonIniciarSesion{
+    width: 30%;
+    padding: 1rem;
+    background-color: black;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    border-radius: 3rem;
+    font-size: .9rem;
+    border: none;
+}
+
+.registrarseP{
+    margin-top: 1rem;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.1rem;
+    color: black;
+}
+
+
+#crearMiCuenta{
+    width: 30%;
+    padding: 1rem;
+    background-color: black;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    border-radius: 3rem;
+    font-size: .9rem;
+    border: none;
+}
+
+/* ESTILOS REGISTRO */
+
+.inputsFormRegistro{
+    display: flex !important;
+    flex-direction: column !important;
+    height: 100vh;
+}
+
+.datosPersonales{
+    justify-content: space-around;
+}
+
+.nombreRegistro, .apellidoRegistro, .dni, .telefono{
+    display: flex;
+    flex-direction: column;
+}
+
+#nombreRegistro, #apellidoRegistro, #dni, #telefono, #email, #emailConfirmado, #contraseña, #contraseñaConfirmada{
+    padding: .6rem 0rem;
+    margin-top: .5rem;
+    border-radius: .2rem;
+    border: 1px solid;
+}
+
+.nombre-apellido-registro, .dni-num{
+    width: 45%;
+    padding: 1rem 2rem 2rem 2rem;
+}
+
+.titulo-datosPersonales, .sobreTuCuenta{
+    padding: 2rem 1rem 0rem 1.5rem !important;
+}
+
+
+.primerDiv{
+    display: flex;
+    justify-content: space-around;
+}
+
+/* .h1-main-registro2{
+    text-align: center !important;
+    font-family: 'Roboto', sans-serif !important; 
+    font-weight: 400 !important;
+    margin-top: 1rem !important;
+} */
+
+.active{
+    font-weight: bolder !important;
+    color: #ED3237;
+}
+
+.email, .contraseñas{
+    display: flex;
+    justify-content: space-around;
+}
+
+.emailDatos, .confirmarEmail, .contraseña, .contraseñaConfirmada{
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+}
+
+.sobreTuCuenta{
+    margin-bottom: 1rem;
+}
+
+label{
+    margin-top: 1rem;
+}
+
+.crearCuentaDiv{
+    padding: 4rem 0rem 0rem 0rem;
+}
+
+button{
+    cursor: pointer;
+}
+
+/* card */
+.cardProducto{
+    width: 15rem;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.imgProducto{
+    cursor: pointer;
+}
+
+.imgCardProduct{
+    width: 100%;
+}
+
+.tituloProducto{
+    text-align: start;
+}
+
+.tituloCard{
+    font-weight: 200;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.precioCard{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.4rem;
+    font-weight: bold;
+}
+
+.precio{
+    width: 100%;
+    padding: .5rem 0rem;
+    text-align: start;
+}
+.envioGratisProducto{
+    text-align: start !important;
+}
+
+.envioGratis{
+    padding: .3rem .3rem;
+    background-color: #E26E6C;
+    color: white;
+    font-weight: 400;
+    border-radius: .2rem;
+}
+
+.envioGratisProducto{
+    display: flex;
+    gap: 2rem;
+}
+
+.contenedorProductos{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 2rem 0rem;
+    margin: 0;
+    gap: 5rem;
+    justify-content: center;
+}
+
+#favoriteProductCard{
+    padding: .15rem;
+    border-radius: 5rem;
+    box-shadow: 0px 0px 22px 5px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 0px 0px 22px 5px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 22px 5px rgba(0,0,0,0.75);
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+    align-content: center   ;
+    cursor: pointer;
+}
+.categorias{
+    border: 1.5px solid rgba(0, 0, 0, 0.247);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    padding: 1rem;
+}
+
+.navCategorias{
+    gap: 6rem;
+    display: flex;
+    justify-content: center;
+}
+
+.navBarCategorias{
+    color: black;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    font-size: 1.1rem;
+}
+
+.visible{
+    display: block;
+}
+.invisible{
+    display: none;
+}
+
+.headerLoginProductos{
+    position: fixed;
+    top: 0;
+}
+
+.categoriasProductos{
+    margin-top: 6rem;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+}
+
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.close:hover {
+    color: black;
+}
+
+#header-Login{
+    display: flex;
+}
